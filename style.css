@@ -292,6 +292,10 @@ footer nav:hover, footer nav *:hover {
     user-select: none;
 }
 
+a {
+    text-decoration: none;
+}
+
 .grey {
     background-color: #ebebeb;
 }
